@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.container h1{
+    color: rgb(37, 35, 35);
+}
+
+input{
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+button{
+    display: block;
+    margin: 0 auto 20px auto;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.resultado p{
+    margin: 6px 0;
+}
